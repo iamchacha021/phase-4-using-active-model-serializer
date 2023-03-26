@@ -1,0 +1,21 @@
+current directory: /home/chacha/Development/code/phase4/assignments/phase-4-using-active-model-serializer/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: /home/chacha/Development/code/phase4/assignments/phase-4-using-active-model-serializer/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230326-4962-syje65 sitelibdir\=./.gem.20230326-4962-syje65 clean
+
+current directory: /home/chacha/Development/code/phase4/assignments/phase-4-using-active-model-serializer/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230326-4962-syje65 sitelibdir\=./.gem.20230326-4962-syje65
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/chacha/Development/code/phase4/assignments/phase-4-using-active-model-serializer/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230326-4962-syje65 sitelibdir\=./.gem.20230326-4962-syje65 install
+/bin/install -m 0755 psych.so ./.gem.20230326-4962-syje65
